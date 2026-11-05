@@ -1,7 +1,8 @@
 # SmartStock AI : Previsão Inteligente de Demanda e Gestão de Estoques
 Demosntração
 
-https://github.com/user-attachments/assets/a7412e70-b195-4101-b40f-f122f9116f46
+https://github.com/user-attachments/assets/e5cac80e-f912-4d11-8fe8-6241a5ae8612
+
 
 
 Machine Learning  •  Ciência de Dados  •  Python  •  Streamlit  •  Varejo
