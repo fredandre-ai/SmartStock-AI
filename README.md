@@ -1,4 +1,8 @@
 # SmartStock AI : Previsão Inteligente de Demanda e Gestão de Estoques
+Demosntração
+
+https://github.com/user-attachments/assets/a7412e70-b195-4101-b40f-f122f9116f46
+
 
 Machine Learning  •  Ciência de Dados  •  Python  •  Streamlit  •  Varejo
 
@@ -128,11 +132,4 @@ Conclusão
 
 O SmartStock AI integra previsão de demanda, simulação de reposição, análise de desperdício, avaliação econômica e visualização interativa. Seu principal resultado é um protótipo experimental funcional de apoio à decisão, com capacidade de receber históricos de vendas e produzir recomendações de compras individuais e em lote. A aplicação comercial exige dados recentes, validação operacional e ajustes de infraestrutura.
 
-
-
-SmartStock AI — Transformando dados em decisões mais inteligentes para a gestão de estoques.
-
-Demonstração.
-
-https://github.com/user-attachments/assets/ab1c5534-5856-4ed1-b19e-0213c4b4a17e
 
